@@ -1,0 +1,1 @@
+pdflatex -ini "&pdflatex themainpreumble.tex\dump
